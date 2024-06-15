@@ -1,1 +1,1 @@
-tensorflow/tensorflow:1.5.0
+pytorch/pytorch:1.0-cuda10.0-cudnn7-runtime
