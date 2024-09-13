@@ -1,4 +1,5 @@
 #pytorch/pytorch:1.0-cuda10.0-cudnn7-runtime
 #alpine:3.13
 #kong:2.2.0-alpine
-kong/kong-build-tools:deb-1.5.15
+#kong/kong-build-tools:deb-1.5.15
+registry.k8s.io/ingress-nginx/controller:v1.10.4
