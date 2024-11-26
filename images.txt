@@ -3,5 +3,6 @@
 #kong:2.2.0-alpine
 #kong/kong-build-tools:deb-1.5.15
 #registry.k8s.io/ingress-nginx/controller:v1.10.4
-osixia/phpldapadmin:latest
-osixia/openldap:1.4.0
+#osixia/phpldapadmin:latest
+#osixia/openldap:1.4.0
+quay.io/keycloak/keycloak:21.1.1
