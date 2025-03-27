@@ -10,4 +10,5 @@
 #ghcr.io/chaos-mesh/chaos-daemon:v2.7.1
 #ghcr.io/chaos-mesh/chaos-dashboard:v2.7.1
 #ghcr.io/chaos-mesh/chaos-coredns:v0.2.6
-quay.io/minio/minio:latest
+#quay.io/minio/minio:latest
+quay.io/minio/operator:v7.0.1
