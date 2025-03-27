@@ -12,4 +12,5 @@
 #ghcr.io/chaos-mesh/chaos-coredns:v0.2.6
 #quay.io/minio/minio:latest
 #quay.io/minio/operator:v7.0.1
-quay.io/minio/minio:RELEASE.2025-03-12T18-04-18Z
+#quay.io/minio/minio:RELEASE.2025-03-12T18-04-18Z
+quay.io/minio/operator-sidecar:v7.0.1
