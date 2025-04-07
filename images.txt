@@ -14,6 +14,7 @@
 #quay.io/minio/operator:v7.0.1
 #quay.io/minio/minio:RELEASE.2025-03-12T18-04-18Z
 #quay.io/minio/operator-sidecar:v7.0.1
-cr.yandex/crp9ftr22d26age3hulg/yandex-cloud/csi-s3/csi-node-driver-registrar:v1.2.0
-cr.yandex/crp9ftr22d26age3hulg/yandex-cloud/csi-s3/csi-provisioner:v2.1.0
-cr.yandex/crp9ftr22d26age3hulg/yandex-cloud/csi-s3/csi-s3-driver:0.42.1
+#cr.yandex/crp9ftr22d26age3hulg/yandex-cloud/csi-s3/csi-node-driver-registrar:v1.2.0
+#cr.yandex/crp9ftr22d26age3hulg/yandex-cloud/csi-s3/csi-provisioner:v2.1.0
+#cr.yandex/crp9ftr22d26age3hulg/yandex-cloud/csi-s3/csi-s3-driver:0.42.1
+quay.io/prometheus/node-exporter:1.9.1
