@@ -20,4 +20,5 @@
 #prom/node-exporter:v1.9.1
 #multiarch/qemu-user-static:xtensaeb-7.2.0-1
 #traefik:v3.4.3
-traefik/whoami:v1.11
+#traefik/whoami:v1.11
+minio/mc:RELEASE.2025-05-21T01-59-54Z.hotfix.e98f1ead
