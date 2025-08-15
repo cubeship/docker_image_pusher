@@ -27,6 +27,6 @@
 #docker.io/bitnami/rabbitmq-cluster-operator:2.16.0-debian-12-r0
 #docker.io/bitnami/rmq-messaging-topology-operator:1.17.3-debian-12-r0
 #apaleo/requestbin:latest
-chaos-mesh/chaos-mesh:v2.7.1 --platform=arm64
-chaos-mesh/chaos-daemon:v2.7.1 --platform=arm64
-chaos-mesh/chaos-dashboard:v2.7.1 --platform=arm64
+ghcr.io/chaos-mesh/chaos-mesh:v2.7.1-arm64
+ghcr.io/chaos-mesh/chaos-daemon:v2.7.1-arm64
+ghcr.io/chaos-mesh/chaos-dashboard:v2.7.1-arm64
